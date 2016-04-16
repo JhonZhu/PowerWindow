@@ -1,1 +1,12 @@
 key world			Chinese meaning				full/short name（optional）
+CAN												controller area network
+interactive			交互
+discrete-event     	离散事件					https://en.wikipedia.org/wiki/Discrete_event_simulation
+precedence			优先
+extent				范围						the area covered by something
+resemble			类似						appearance or qualities
+fidelity			忠诚度或精度				faithfulness or degree of exactness
+scope				范围						an area in which something acts or operates or has power or control
+oscillating			振荡
+amplify				放大
+armature			电枢

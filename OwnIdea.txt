@@ -1,0 +1,17 @@
+这篇Introduction主要是介绍：
+1.如何使用Simulink工具，如何在MATLAB中操作
+2.MBD的过程
+3.如何组织各个文件以及模型的各个部分
+4.把系统跟模型联系起来
+
+***打开模型的部分命令
+打开Power Window Controller工程：slexPowerWindowStart
+打开起始的simulink模型：slexPowerWindowControl
+打开重构的自动运行模型：slexPowerWindowCntlCoverage
+打开高覆盖度的重构的自动运行模型：slexPowerWindowCntlCoverageIncrease
+打开各个活动图表：slexPowerWindowExample
+打开混合动态系统：slexPowerWindowContinuous
+打开混合动态系统的动态模拟：slexPowerWindowContinuousSim
+打开动力效果的细节：slexPowerWindowPowerEffects
+打开现实的电枢模型：slexPowerWindowRealisticArmature
+打开通信协议模型：slexPowerWindowCommunicationProtocalSim
