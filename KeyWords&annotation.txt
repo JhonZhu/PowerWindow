@@ -10,3 +10,8 @@ scope				范围						an area in which something acts or operates or has power or
 oscillating			振荡
 amplify				放大
 armature			电枢
+primitive 			原始的，粗糙的
+context				环境，上下文
+exclusive			专一的，排外的				exclude all but one
+unambiguously		清楚的
+decomposition		分解
